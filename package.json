@@ -1,0 +1,19 @@
+{
+  "name": "wepy-plugin-compiler-plus",
+  "version": "1.0.0",
+  "description": "wepy编译器加强版",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "compiler",
+    "plus"
+  ],
+  "author": "syoryken@sina.com",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
